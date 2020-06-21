@@ -1,1 +1,1 @@
-# SimpleLinearRegression-GPAandSAT
+# Linear Regression
